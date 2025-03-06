@@ -52,6 +52,4 @@ No special installation is required. Ensure that you have a Linux or macOS syste
 ## Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request with improvements or bug fixes.
 
-## License
-This project is licensed under the MIT License.
 
